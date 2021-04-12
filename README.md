@@ -53,7 +53,7 @@
  
     <br/>
     
-###credits
+### credits
 - https://github.com/codeSTACKr/codeSTACKr
 - https://github.com/anuraghazra/github-readme-stats
 
