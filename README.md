@@ -28,6 +28,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 [<img align="left" alt="linux" width="26px" src="https://github.com/adsingh007/adsingh007/blob/main/linux-svgrepo-com.svg" />]
+[<img align="left" alt="chrome" width="26px" src="https://github.com/adsingh007/adsingh007/blob/main/Google_Chrome-Logo.wine.svg" />]
+[<img align="left" alt="firefox" width="26px" src="https://github.com/adsingh007/adsingh007/blob/main/256px-Firefox_Logo%2C_2017.svg.png" />]
 <br />
 <br />
 <p align="center">
