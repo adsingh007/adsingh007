@@ -1,4 +1,4 @@
-<img src="https://github.com/adsingh007/adsingh007/commit/47184da9869f9e8d813b9b7ee3bf5a0daf262961#diff-c8b32281e90768a093f1b4053487939a60ebca718e67e24509242788c56216be" alt="keen & computers">
+<img src="keen.jpeg" alt="keen & computers">
 
 
 # MY PASSION
