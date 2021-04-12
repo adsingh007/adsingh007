@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="adsingh007" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="adsingh007" width="22px" src="https://https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg" />][Gmail]
 [<img align="left" alt="adsingh007 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="adsingh007 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="adsingh007 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
@@ -20,7 +20,7 @@
 [youtube]: https://www.youtube.com/channel/UCIwrSDnkFEhWtI6QNNZRcig
 [instagram]: https://www.instagram.com/sngh_ad
 [linkedin]: https://www.linkedin.com/in/aman-virdi-87031654
-
+[Gmail]: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
 ### Languages and Tools:
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
