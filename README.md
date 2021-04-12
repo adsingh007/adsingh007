@@ -8,9 +8,9 @@
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and I'm foody
 
-### Spotify Playing 🎧
+### YOUTUBE Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://music.youtube.com/playlist?list=OLAK5uy_mUXchjSlLJdt7Ym9n28Gf9QJlHklxXEfE" alt="ADSINGH PLAYLIST PLAYING" width="350" />](https://music.youtube.com/watch?v=5-FGxUINL-Q&list=RDAMVM5-FGxUINL-Q)
 
 ### Connect with me:
 
