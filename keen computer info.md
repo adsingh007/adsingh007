@@ -10,4 +10,4 @@ I was relieved that I successfully managed a stove since it was my first time us
 
 <img src="https://github.com/adsingh007/adsingh007/blob/main/cook1.jpg" alt="cook1">
   
-  <p><i> So after that day i start cooking as my hobby and now whenever i got borred i do ccoking and that feels me good </p>
+  <p><i> So after that day i start cooking as my hobby and now whenever i got borred i do ccoking and that feels me good. </p>
