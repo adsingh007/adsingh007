@@ -2,4 +2,9 @@
 
 
 # MY PASSION
-<p> <i> My passion for writing is something words are not able to explain. It is like an addiction to something that you have no control over. Whether I have to write or type, my love for it takes me to another place. Writing is much more than an assignment with a due date or necessity. It does not matter if I am required to type an essay or simply feel the need to write a poem. I could write about anything in the world. </p>
+<p> <i> My quality is my passion for cooking. Most people won’t consider cooking as a quality but for me it is. Ever since a child, watching my mother cook gave me aspirations to pursue a career as a chef. With the effort she puts in, her food always turn out delicious and people become content. </p>
+</br>
+<p> <i>I came to experience my passion of cooking in an unexpected situation. As a fifth grader, I always came home hungry. The cabinets in my kitchen would be filled with snacks that were easily to make.. One day, I was unlucky to find food and tried cooking on the stove. I made fried rice with soy sauce. I was afraid to burn them but they turned out ok at the end.
+<img src="https://https://github.com/adsingh007/adsingh007/blob/main/cook1.jpg" alt="MY PASSION">
+I was relieved that I successfully managed a stove since it was my first time using it. During that day, my mom noticed rice near the stove. She asked me if I cooked. I said yes.</p>
+  
