@@ -48,6 +48,7 @@
     <a href="https://github.com/adsingh007/adsingh007/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
+ [adsingh007](https://github-readme-stats.vercel.app/api?username=adsingh007&count_private=true)
     <br />
 
 
