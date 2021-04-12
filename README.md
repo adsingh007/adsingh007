@@ -4,7 +4,7 @@
 ## I'm learning to be a good programmer!!
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking for a job where i can grow & enhance my tenchincal skills.
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to travel and I'm foody.
 
