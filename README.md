@@ -1,4 +1,4 @@
-### Hi there, I'm Amandeep Singh - aka [adsingh007][website] 👋
+# Hi there, I'm Amandeep Singh - aka [adsingh007][website] 👋
 
 
 ## I'm learning to be a good programmer!!
