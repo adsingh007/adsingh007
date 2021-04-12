@@ -10,7 +10,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="adsingh007" width="22px" src="https://https://commons.wikimedia.org/wiki/File:Gmail_icon_(2020).svg" />][Gmail]
+[<img align="left" alt="adsingh007" width="22px" src="https://github.com/adsingh007/adsingh007/blob/main/256px-Gmail_icon_(2020).svg.png" />][Gmail]
 [<img align="left" alt="adsingh007 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="adsingh007 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="adsingh007 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
