@@ -33,8 +33,8 @@
 <p align="center">
  <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Stats" />
  <h2 align="center">GitHub Stats</h2>
- <p align="center"><b>Get dynamically generated GitHub stats on readmes!</b></p>
-</p>
+<h3> <p align="center"><b>Get dynamically generated GitHub stats on readmes!</b></p>
+</p></h3>
   <p align="center">
     <a href="https://github.com/adsingh007/adsingh007/actions">
       <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
