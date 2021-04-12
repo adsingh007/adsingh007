@@ -42,10 +42,10 @@
     <a href="https://github.com/adsingh007/adsingh007-stats">
       <img src="https://codecov.io/gh/anuraghazra/github-readme-stats/branch/master/graph/badge.svg" />
     </a>
-    <a href="https://github.com/adsingh007/issues">
+    <a href="https://github.com/adsingh007/adsingh007/issues">
       <img alt="Issues" src="https://img.shields.io/github/issues/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
-    <a href="https://github.com/adsingh007/pulls">
+    <a href="https://github.com/adsingh007/adsingh007/pulls">
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
  
