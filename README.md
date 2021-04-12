@@ -51,7 +51,8 @@
       <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/anuraghazra/github-readme-stats?color=0088ff" />
     </a>
  
-    <br />
+    <br/>
+    
 
 
 
