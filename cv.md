@@ -61,3 +61,12 @@ i have ability to learn fast and quick.I have basic knowledge about linux tools 
 </ol>
 </details>
 
+### Certifications:
+
+- RHCSA
+  Red Hat Certified System Administrator
+  Red Hat Enterprise 7.0		
+  
+
+
+
