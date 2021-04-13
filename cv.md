@@ -65,9 +65,10 @@ i have ability to learn fast and quick.I have basic knowledge about linux tools 
 
 - RHCSA
   Red Hat Certified System Administrator
-  Red Hat Enterprise 7.0		
+  Red Hat Enterprise 7.0	
+  <br/>
   <a href="https://rhtapps.redhat.com/certifications/badge/verify/VRYPYLUYBGU7MCRBGDVBJFT6NUAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ="><img src="rd.jpg" alt="Red Hat Certified System Administrator"
-   title="Red Hat Certified System Administrator" width="15%" /> </a> 
+   title="Red Hat Certified System Administrator" width="20%" /> </a> 
 
 
 
