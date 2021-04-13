@@ -27,7 +27,7 @@ To work for an organization which provides me the opportunity to improve my skil
 ### About Me:
 
 I have 4+ years of Experience as a Sr. Assistant in IT & Ops Dept at DIMTS Ltd. Company basicly it is an transit company,My key strength is i'am self motivated.
-i have ability to learn fast and quick.I have basic knowledge about linux tools .Currently i'm learnig everythig to grow myself.
+i have ability to learn fast and quick.I have basic knowledge about linux tools .Currently i'm learnig everythig to grow myself.You can find my passion [Here](mypassion.md)
 
 ### Academic Qualification: 
 
@@ -69,6 +69,12 @@ i have ability to learn fast and quick.I have basic knowledge about linux tools 
   <br/>
   <a href="https://rhtapps.redhat.com/certifications/badge/verify/VRYPYLUYBGU7MCRBGDVBJFT6NUAEQU3CUPSQX2KSDXT6RW46LQ3T7ULZ55KZZ56SKO7EQ3ETTLYZQ4U5NQYTCNA62RUWOCM34WWBUYQ="><img src="rd.jpg" alt="Red Hat Certified System Administrator"
    title="Red Hat Certified System Administrator" width="20%" /> </a> 
+  <br/>
+  <br/>
+
+### credits
+- https://github.com/codeSTACKr/codeSTACKr
+- https://github.com/anuraghazra/github-readme-stats
 
 
 
