@@ -38,7 +38,7 @@ i have ability to learn fast and quick.I have basic knowledge about linux tools 
      <li>
       :arrow_down_small:GRADUATION:arrow_down_small:
         </li>
-    <br/>
+  
     
 | ***Degree/Qualification***  |  ***Graduated***  |
 | :------: | :-----: | 
@@ -46,18 +46,18 @@ i have ability to learn fast and quick.I have basic knowledge about linux tools 
       
           
  
-       <br/>
+  
        
 | ***INTERMEDIATE Qualification***  | ***Session***  |
 | :------: | :-----: |
 |N.I.O.S [NON Medical]  | 2011-2013|     
      
   
-       <br/>
+      
        
-| ***MATRICULATION Qualification***  |   |    ***Session***  |
+| ***MATRICULATION Qualification***  |  ***Session***  |
 | :------: | :-----: | 
-|C.B.S.E ]   |  Upto 2011|     
+|C.B.S.E ]   | Upto 2011 |     
 </ol>
 </details>
 
