@@ -1,10 +1,10 @@
-# Hi there 👋  Welome to my bio 
+# Hi there 👋  Welcome to my bio 
 ## I'm Amandeep Singh - aka [adsingh007][twitter] 
 
 - 🌱 I’m currently learning everything.👨🏻‍🎓
-- 🏇🏻 I live in Delhi city
-- 🥅  I'm looking to Contribute more on Open Source projects
-- ⚡ Fun fact: I love to travel ,I love music & I'm foody.
+- 😎 I live in Delhi city
+- 🥅 I'm looking to Contribute more on Open Source projects
+- ⚡  Fun fact: I love to travel ,I love music & I'm foody.
 
 ### Connect with me:
 
@@ -26,7 +26,7 @@ To work for an organization which provides me the opportunity to improve my skil
 
 ### About Me:
 
-I have 4+ years of Experience as a Sr. Assistant in IT & Ops Dept at DIMTS Ltd. Company basicly it is an transit company,My key strength is i'am self motivated.
+I have 4+ years of Experience as a Sr. Assistant in IT & Ops Dept at DIMTS Ltd. Company basicly it is an transit organisation ,My key strength is i'am self motivated.
 i have ability to learn fast and quick.I have basic knowledge about linux tools .Currently i'm learnig everythig to grow myself.You can find my passion [Here](mypassion.md)
 
 ### Academic Qualification: 
@@ -50,14 +50,14 @@ i have ability to learn fast and quick.I have basic knowledge about linux tools 
        
 | ***INTERMEDIATE Qualification***  | ***Session***  |
 | :------: | :-----: |
-|N.I.O.S [NON Medical]  | 2011-2013|     
+|N.I.O.S [NON Medical]  | 2013|     
      
   
       
        
 | ***MATRICULATION Qualification***  |  ***Session***  |
 | :------: | :-----: | 
-|C.B.S.E ]   | Upto 2011 |     
+|C.B.S.E ]   | 2011 |     
 </ol>
 </details>
 
