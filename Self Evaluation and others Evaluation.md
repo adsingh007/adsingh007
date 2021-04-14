@@ -14,10 +14,10 @@
 
 - To calculate anything in Excel, you need to enter formulas into its cells. Formulas can be simple arithmetical formulas or complicated formulas involving conditional statements and nested functions. All Excel formulas use a basic syntax.
 
-
+### In this project i'am using conditional algorithm which is shown as below:-
 
 ```sh
-cdmo
+=IF(logicaltest=[value_if_true],[Value_if_false])
 ```
 
  
