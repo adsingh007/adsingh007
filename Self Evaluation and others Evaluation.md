@@ -1,16 +1,20 @@
 
 # Project Name:
+===============
 ## Self Evaluation and others Team Members Evaluation
 <br/>
 
 ## Objective 
-- Objective of the project was to evaluate the progerss of the team mambers in the form of five given keywords "Exelent , Very good , Good , Satisfactory ,Fair & Poor ". 
+- Objective of the project was to evaluate the progerss of the team members in the form of five given keywords "Exelent , Very good , Good , Satisfactory ,Fair & Poor ". 
 - finding total average through different algorithm or formulas.
 - Applying conditional formatting to highlight row of persons whose average is less than 2.5 with red color.
 
  <img align="left" src="https://github.com/adsingh007/adsingh007/blob/main/1.jpg" />
+ 
  </br>
-## How to write Formula
+ 
+
+## How To Write Formula
 
 - To calculate anything in Excel, you need to enter formulas into its cells. Formulas can be simple arithmetical formulas or complicated formulas involving conditional statements and nested functions. All Excel formulas use a basic syntax.
 
@@ -19,6 +23,13 @@
 ```sh
 =IF(logicaltest=[value_if_true],[Value_if_false])
 ```
+
+## How It Was Implimented
+
+- The value of progess is insertedinto the By judge there selflearning , attendance & performance from github file of all persons.
+
+
+
 
  
  
