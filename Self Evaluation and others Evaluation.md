@@ -1,6 +1,8 @@
-<body style="background-color:powderblue;">
+<head>
+  <body style="background-color:powderblue;">
 
 # Project Name
 ## Self Evaluation and others Team Members Evaluation
 
 </body>
+</head>
