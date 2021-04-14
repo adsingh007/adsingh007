@@ -11,9 +11,9 @@
 
  <img align="left" src="https://github.com/adsingh007/adsingh007/blob/main/1.jpg" />
  
- <br/>
- 
 
+ <br/>
+<br/>
 ## How To Write Formula
 
 - To calculate anything in Excel, you need to enter formulas into its cells. Formulas can be simple arithmetical formulas or complicated formulas involving conditional statements and nested functions. All Excel formulas use a basic syntax.
@@ -27,9 +27,11 @@
 ## How It Was Implimented
 
 - The value of progess is insertedinto the By judge there selflearning , attendance & performance from github file of all persons.
- <br />
+ <br/>
+ <br/>
 <img align="left" src="https://github.com/adsingh007/adsingh007/blob/main/3.jpg" />
-<br />
+<br/>
+<br/>
 - Im using "if()" conditional formula in addtion form by which we get the total obtained score then after that the total value will be simly devided by the total no of coulombs
 
 ```sh
@@ -38,10 +40,11 @@
 
 - After implimenting the formula the average value of all team members will come as shown below
 
-<br />
-
+<br/>
+<br/>
 <img align="left" src="https://github.com/adsingh007/adsingh007/blob/main/2.jpg" />
 
-<br />
+<br/>
+<br/>
  
  
