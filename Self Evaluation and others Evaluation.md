@@ -12,8 +12,8 @@
  <img align="left" src="https://github.com/adsingh007/adsingh007/blob/main/1.jpg" />
  
 
- <br/>
-<br/>
+ <br>
+<br>
 ## How To Write Formula
 
 - To calculate anything in Excel, you need to enter formulas into its cells. Formulas can be simple arithmetical formulas or complicated formulas involving conditional statements and nested functions. All Excel formulas use a basic syntax.
