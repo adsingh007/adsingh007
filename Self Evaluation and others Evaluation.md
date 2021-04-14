@@ -32,7 +32,11 @@
 - The value of progess is insertedinto the By judge there selflearning , attendance & performance from github file of all persons.
  <br/>
  <br/>
+ 
+ <h1>
+ 
 <img align="left" src="https://github.com/adsingh007/adsingh007/blob/main/3.jpg" />
+</h1>
 <br/>
 <br/>
 - Im using "if()" conditional formula in addtion form by which we get the total obtained score then after that the total value will be simly devided by the total no of coulombs
@@ -44,12 +48,12 @@
 - After implimenting the formula the average value of all team members will come as shown below
 
 <br/>
-<br/>
+<h1>
 <img align="left" src="https://github.com/adsingh007/adsingh007/blob/main/2.jpg" />
-
+</h1>
 <br/>
 <br/>
  
 ## Conclusion
 
-- **During this project i have learned about how to use conditional algorithm in excel which have solved a very complex problem into simple form .These conditonal algoroths are also used on many programming languages and i think now i have leaned about how to use it on different platforms also.* 
+- *During this project i have learned about how to use conditional algorithm in excel which have solved a very complex problem into simple form .These conditonal algoroths are also used on many programming languages and i think now i have leaned about how to use it on different platforms also.* 
