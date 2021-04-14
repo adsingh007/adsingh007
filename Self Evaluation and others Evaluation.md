@@ -1,5 +1,5 @@
 
-# Project Name
+# Project Name:
 ## Self Evaluation and others Team Members Evaluation
 <br/>
 
@@ -9,7 +9,7 @@
 - Applying conditional formatting to highlight row of persons whose average is less than 2.5 with red color.
 
  <img align="left" src="https://github.com/adsingh007/adsingh007/blob/main/1.jpg" />
- 
+ </br>
 ## How to write Formula
 
 - To calculate anything in Excel, you need to enter formulas into its cells. Formulas can be simple arithmetical formulas or complicated formulas involving conditional statements and nested functions. All Excel formulas use a basic syntax.
