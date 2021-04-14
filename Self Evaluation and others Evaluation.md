@@ -11,7 +11,7 @@
 
  <img align="left" src="https://github.com/adsingh007/adsingh007/blob/main/1.jpg" />
  
- <br />
+ <br/>
  
 
 ## How To Write Formula
