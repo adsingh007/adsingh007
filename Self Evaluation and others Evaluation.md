@@ -2,7 +2,7 @@
 # Project Name:
 
 ## Self Evaluation and others Team Members Evaluation
-<br/>
+<br />
 
 ## Objective 
 - Objective of the project was to evaluate the progerss of the team members in the form of five given keywords "Exelent , Very good , Good , Satisfactory ,Fair & Poor ". 
@@ -11,7 +11,7 @@
 
  <img align="left" src="https://github.com/adsingh007/adsingh007/blob/main/1.jpg" />
  
- </br>
+ <br />
  
 
 ## How To Write Formula
@@ -27,9 +27,9 @@
 ## How It Was Implimented
 
 - The value of progess is insertedinto the By judge there selflearning , attendance & performance from github file of all persons.
-</br>
+ <br />
 <img align="left" src="https://github.com/adsingh007/adsingh007/blob/main/3.jpg" />
-</br>
+<br />
 - Im using "if()" conditional formula in addtion form by which we get the total obtained score then after that the total value will be simly devided by the total no of coulombs
 
 ```sh
@@ -38,9 +38,10 @@
 
 - After implimenting the formula the average value of all team members will come as shown below
 
-</br>
+<br />
+
 <img align="left" src="https://github.com/adsingh007/adsingh007/blob/main/2.jpg" />
-</br>
- 
+
+<br />
  
  
