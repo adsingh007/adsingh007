@@ -39,6 +39,8 @@
 </h1>
 <br/>
 <br/>
+
+
 - Im using "if()" conditional formula in addtion form by which we get the total obtained score then after that the total value will be simly devided by the total no of coulombs
 
 ```sh
@@ -53,6 +55,9 @@
 </h1>
 <br/>
 <br/>
+
+### After using this formula i have used conditional formating tool from excel .With the help of this we can set a range of value so that if the value got down as per selected range then the color of perticular row or column will change.
+
  
 ## Conclusion
 
