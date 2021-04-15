@@ -62,3 +62,5 @@
 ## Conclusion
 
 - *During this project i have learned about how to use conditional algorithm in excel which have solved a very complex problem into simple form .These conditonal algoroths are also used on many programming languages and i think now i have leaned about how to use it on different platforms also.* 
+
+## Find Spreadsheet [here](https://docs.google.com/spreadsheets/d/1yMkktOtV99VM6S3gfH8q4H9DmlPi20KwVIF4DiqkFaA/edit?usp=sharing)
