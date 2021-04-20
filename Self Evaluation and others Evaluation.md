@@ -64,7 +64,8 @@
   
 |**SNo.** | **Test Case Description** |**Test Steps** | **Expected Result** | **Actual Result** | **Status** |
 |:-----: | :-------: | :------: | :-----: | :-----: | :-----: |
-| 1 | Appling formula for first column to check output at average named column | Appling If conditional formula at average column "=IF(C4="Excellent",5,IF(C4="Very good",4,IF(C4="Good",3,IF(C4="Satisfactory",2,IF(C4="Fair",1,IF(C4="Poor",0))))))" . Inserted value at first column is Exellent | 5 | 5 | Pass |
+| 1 | Appling formula for first column to check output at average named column | Appling If conditional formula at average column **"=IF(C4="Excellent",5,IF(C4="Very good",4,IF(C4="Good",3,IF(C4="Satisfactory",2,IF(C4="Fair",1,IF(C4="Poor",0))))))"** . Inserted value at first column is Exellent | 5 | 5 | Pass |
+| 2 | Now appling formula to calculate total number obtained by team member for all column | Appling If conditional formula at average column but now we will write it for all columns **=(IF(C4="Excellent",5,IF(C4="Very good",4,IF(C4="Good",3,IF(C4="Satisfactory",2,IF(C4="Fair",1,IF(C4="Poor",0))))))+IF(D4="Excellent",5,IF(D4="Very good",4,IF(D4="Good",3,IF(D4="Satisfactory",2,IF(D4="Fair",1,IF(D4="Poor",0))))))+IF(E4="Excellent",5,IF(E4="Very good",4,IF(E4="Good",3,IF(E4="Satisfactory",2,IF(E4="Fair",1,IF(E4="Poor",0))))))+IF(F4="Excellent",5,IF(F4="Very good",4,IF(F4="Good",3,IF(F4="Satisfactory",2,IF(F4="Fair",1,IF(F4="Poor",0))))))+IF(G4="Excellent",5,IF(G4="Very good",4,IF(G4="Good",3,IF(G4="Satisfactory",2,IF(G4="Fair",1,IF(G4="Poor",0))))))+IF(H4="Excellent",5,IF(H4="Very good",4,IF(H4="Good",3,IF(H4="Satisfactory",2,IF(H4="Fair",1,IF(H4="Poor",0))))))+IF(I4="Excellent",5,IF(I4="Very good",4,IF(I4="Good",3,IF(I4="Satisfactory",2,IF(I4="Fair",1,IF(I4="Poor",0))))))+IF(J4="Excellent",5,IF(J4="Very good",4,IF(J4="Good",3,IF(J4="Satisfactory",2,IF(J4="Fair",1,IF(J4="Poor",0)))))))** | 39 | 39 | Pass |
 
 
  </details>
