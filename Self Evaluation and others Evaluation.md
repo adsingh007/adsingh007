@@ -58,7 +58,14 @@
 
 ### After using this formula i have used conditional formating tool from excel .With the help of this we can set a range of value so that if the value got down as per selected range then the color of perticular row or column will change.
 
+## Test Cases
+
+| ***hi*** | |**hi** | | *hi* |
+| :-------: | | ------ | | :-----: |
+| hi [hi] |  | hi | | [hii] |
  
+ 
+
 ## Conclusion
 
 - *During this project i have learned about how to use conditional algorithm in spreadsheet which have solved a very complex problem into simple form .These conditonal algoroths are also used on many programming languages and i think now i have leaned about how to use it on different platforms also.* 
