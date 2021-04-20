@@ -64,7 +64,7 @@
   
 | **Test Case Description** |**Test Steps** | **Expected Result** | **Actual Result** | **Status** |
 | :-------: | :------: | :-----: | :-----: | :-----: |
-| Appling formula for first column to check output at average named column | Appling if conditional formula at average column "=(IF(C4="Excellent",5,IF(C4="Very good",4,IF(C4="Good",3,IF(C4="Satisfactory",2,IF(C4="Fair",1,IF(C4="Poor",0)" . Inserted value at first column is Exellent | 5 | 5 | Pass |
+| 1) Appling formula for first column to check output at average named column | Appling if conditional formula at average column "=(IF(C4="Excellent",5,IF(C4="Very good",4,IF(C4="Good",3,IF(C4="Satisfactory",2,IF(C4="Fair",1,IF(C4="Poor",0)" . Inserted value at first column is Exellent | 5 | 5 | Pass |
 
 
  </details>
