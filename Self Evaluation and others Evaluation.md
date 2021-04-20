@@ -64,7 +64,7 @@
   
 | **Test Case Description** |**Test Steps** | **Expected Result** | **Actual Result** | **Status** |
 | :-------: | :------: | :-----: | :-----: | :-----: |
-| hi | hi | hii |
+| progerss of the team members in the form of five given keywords "Exelent , Very good , Good , Satisfactory ,Fair & Poor | hi | hii |
 
 
  </details>
