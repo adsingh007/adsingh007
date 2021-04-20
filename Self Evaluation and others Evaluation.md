@@ -59,7 +59,7 @@
 ### After using this formula i have used conditional formating tool from excel .With the help of this we can set a range of value so that if the value got down as per selected range then the color of perticular row or column will change.
 
 ## Test Cases
-<ol>
+
  <details>
   
 |**SNo.** | **Test Case Description** |**Test Steps** | **Expected Result** | **Actual Result** | **Status** |
@@ -71,7 +71,7 @@
  
 
  </details>
- </ol>
+ 
  
 
 ## Conclusion
