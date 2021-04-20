@@ -63,7 +63,7 @@
  <details>
 | ***hi*** | |**hi** | | *hi* |
 | :-------: | | ------ | | :-----: |
-| hi [hi] |  | hi | | [hii] |
+| hi | | hi | | hii |
  </details>
  </ol>
  
