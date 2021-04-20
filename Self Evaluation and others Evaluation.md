@@ -62,8 +62,8 @@
 <ol>
  <details>
   
-| ***hi*** |**hi** | *hi* |
-| :-------: | :------: | :-----: |
+| **Test Case Description** |**Test Steps** | **Expected Result** | **Actual Result** | **Status** |
+| :-------: | :------: | :-----: | :-----: | :-----: |
 | hi | hi | hii |
 
 
