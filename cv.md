@@ -31,7 +31,7 @@ i have ability to learn fast and quick.I have basic knowledge about linux tools 
 
 ### Academic Qualification: 
 
-<details close="close"> 
+<details > 
   <summary><b>EDUCATION TREE </b></summary>
   <summary><b>Education Tree </b></summary>
   <ol> <br/>
