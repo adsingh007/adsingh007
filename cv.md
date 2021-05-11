@@ -56,7 +56,7 @@ i have ability to learn fast and quick.I have basic knowledge about linux tools 
        
 | ***MATRICULATION Qualification***  |  ***Session***  |
 | :------: | :-----: | 
-|C.B.S.E ]   | 2011 |     
+| [C.B.S.E ]   | 2011 |     
 </ol>
 </details>
 
