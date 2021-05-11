@@ -33,10 +33,9 @@ i have ability to learn fast and quick.I have basic knowledge about linux tools 
 
 <details > 
   <summary><b>EDUCATION TREE </b></summary>
-  <summary><b>Education Tree </b></summary>
   <ol> <br/>
      <li>
-      :arrow_down_small:GRADUATION:arrow_down_small:
+      ⬇️:GRADUATION:arrow_down_small:
         </li>
   
     
