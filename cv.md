@@ -35,7 +35,7 @@ i have ability to learn fast and quick.I have basic knowledge about linux tools 
   <summary><b>EDUCATION TREE </b></summary>
   <ol> <br/>
      <li>
-      ⬇️:GRADUATION:arrow_down_small:
+      :GRADUATION:
         </li>
   
     
