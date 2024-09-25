@@ -20,7 +20,7 @@ I'm passionate about leveraging technology to solve complex problems and streaml
 [twitter]: https://twitter.com/007Amanvirdi
 [youtube]: https://www.youtube.com/channel/UCIwrSDnkFEhWtI6QNNZRcig
 [instagram]: https://www.instagram.com/sngh_ad
-[linkedin]: www.linkedin.com/in/adsing007
+[linkedin]: https://www.linkedin.com/in/adsing007
 [Gmail]: https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
 
 ### Languages and Tools I Use:
